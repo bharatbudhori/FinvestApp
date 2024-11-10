@@ -1,0 +1,1 @@
+ D:\\Flutter_Project\\FinvestApp\\.dart_tool\\flutter_build\\e0eae9fc58e58a20dda0c05197a22c7b\\native_assets.yaml: 
